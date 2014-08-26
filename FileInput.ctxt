@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=FileInput(java.lang.String)
+comment0.text=\r\n\ Construct\ <code>FileInput</code>\ object\ given\ a\ file\ name.\r\n
+comment1.params=fileStream
+comment1.target=FileInput(java.io.FileInputStream)
+comment1.text=\r\n\ Construct\ <code>FileInput</code>\ object\ given\ a\ file\ name.\r\n
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Dictionary(java.lang.String)
+comment1.params=
+comment1.target=void\ setDictionary()
+comment2.params=
+comment2.target=void\ closeOutput()
+comment3.params=token
+comment3.target=int\ findWord(java.lang.String)
+comment4.params=textWord
+comment4.target=java.util.ArrayList\ getSuggestions(java.lang.String)
+comment5.params=word
+comment5.target=void\ addWordToDictionary(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getWords()
+comment7.params=first\ second
+comment7.target=int\ getDistance(java.lang.String,\ java.lang.String)
+numComments=8

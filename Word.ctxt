@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=Word(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getWord()
+comment2.params=replace
+comment2.target=void\ setWord(java.lang.String)
+numComments=3
